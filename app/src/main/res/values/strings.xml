@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">admin</string>
+    <string name="connection">Connection</string>
+    <string name="please_login">Please Login</string>
+    <string name="admin_username">Admin Username</string>
+    <string name="admin_password">Admin Password</string>
+</resources>
